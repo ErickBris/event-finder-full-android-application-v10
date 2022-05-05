@@ -1,0 +1,43 @@
+————————————————————————————————————————————
+V1.0
+————————————————————————————————————————————
+Initial Release
+
+
+PHP Backend
+
+Can manage users by allowing or denying access.
+Category creation, modification, and deletion.
+Event creation, modification, and deletion.
+Photo Upload via URL or by File.
+Google Maps Integration with Geocoding and Reverse Geocoding.
+Multiple Categories selection.
+
+
+Android App
+
+News Added
+Walkthrough when the app is loaded once
+Localization Ready!
+Offline Usage
+User Profile
+Social Login (Twitter/Facebook/Google+)
+AdMob
+Share to Facebook
+Share to Twitter
+Share to Google+
+Call Integration
+Email Integration
+User can add Favorites
+Google Directions.
+Google Analytics.
+Search Panel
+Backend Geolocation/Reverse-Geolocation
+About Us Panel Added
+Terms & Conditions Panel Added
+User can edit its Profile
+Image Pinch and Zoom
+Supports Android OS 4.1 and Above.
+Floating Action button with menu.
+Users can join and posts comments under an event.
+Point of Interest/Events are ranked according to nearby.
